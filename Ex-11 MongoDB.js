@@ -1,5 +1,5 @@
 const { MongoClient } = require("mongodb");
-const url ="mongodb+srv://<name>:<pwd>@my-cluster.0uuox.mongodb.net/mybase?retryWrites=true&w=majority";
+const url ="mongodb+srv://btechcseian:20021a05xx@cluster0.xpt8gau.mongodb.net/?retryWrites=true&w=majority";
 
 // Database and Collection names
 const dbName = 'mydatabase';
